@@ -24,7 +24,7 @@ The project focuses on building and experimenting with different VAE architectur
 ## Setup
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/aditya0520/Variational-Autoencoders.git
 cd variational-autoencoders-project
 ```
 
